@@ -9,3 +9,5 @@ O nome da DB e o número do endereço IP devem ser iguais ao script para não se
 -- Instalações necessárias:
 
 $ python -m pip install mysql-connector-python
+
+obs: Não consegui criar os filtros para remover ou apenas alertar os campos errados como por exemplo, texto no lugar de números ou numeros no lugar de texto.
